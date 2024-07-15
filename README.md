@@ -17,7 +17,7 @@ Below is a demo video of LiDAR-Visual-IMU SLAM system from [SR LIVO](https://git
 
 ## Papers
 
-### 2024
+### 2024 (updating!)
 
 
 - [RAL2024] LIVER: A Tightly Coupled LiDAR-Inertial-Visual State Estimator With High Robustness for Underground Environments [[paper](https://ieeexplore.ieee.org/abstract/document/10404014)][[code](https://github.com/ZikangYuan/sr_livo)]
@@ -44,6 +44,10 @@ Below is a demo video of LiDAR-Visual-IMU SLAM system from [SR LIVO](https://git
 
 - [RAL2023] Coco-LIC: Continuous-Time Tightly-Coupled LiDAR-Inertial-Camera Odometry using Non-Uniform B-spline [[paper](https://arxiv.org/pdf/2309.09808)][[code](https://github.com/APRIL-ZJU/Coco-LIC)]
 
+- [TM2023] CR-LDSO: Direct Sparse LiDAR-Assisted Visual Odometry With Cloud Reusing [[paper](https://ieeexplore.ieee.org/abstract/document/10071952/)]
+
+- [TM2023] Continuous-Time Fixed-Lag Smoothing for LiDAR-Inertial-Camera SLAM [[paper](https://ieeexplore.ieee.org/abstract/document/10045587)]
+
 
 
 
@@ -61,9 +65,15 @@ Below is a demo video of LiDAR-Visual-IMU SLAM system from [SR LIVO](https://git
 
 
 - [RAL2021] R2LIVE: A Robust, Real-time, LiDAR-Inertial-Visual tightly-coupled state Estimator and mapping [[paper](https://github.com/hku-mars/r2live/blob/master/paper/r2live_ral_final.pdf)][[code](https://github.com/hku-mars/r2live)]
-
+Super odometry: Imu-centric lidar-visual-inertial estimator for challenging environments
 
 - [IROS2021] Lvio-Fusion: A Self-adaptive Multi-sensor Fusion SLAM Framework Using Actor-critic Method [[paper](https://arxiv.org/abs/2106.06783)][[code](https://github.com/jypjypjypjyp/lvio_fusion)]
+
+
+- [IROS2021] Super odometry: Imu-centric lidar-visual-inertial estimator for challenging environments [[paper](https://arxiv.org/pdf/2104.14938)][[code](https://github.com/jypjypjypjyp/lvio_fusion)]
+
+- [WACV2021] Self-Supervised Visual-LiDAR Odometry With Flip Consistency [[paper](https://openaccess.thecvf.com/content/WACV2021/papers/Li_Self-Supervised_Visual-LiDAR_Odometry_With_Flip_Consistency_WACV_2021_paper.pdf)][[code](https://github.com/jypjypjypjyp/lvio_fusion)]
+
 
 - [ICRA2021] CamVox: A Low-cost and Accurate Lidar-assisted Visual SLAM System [[paper](https://ieeexplore.ieee.org/abstract/document/9561149)][[code](https://github.com/ISEE-Technology/CamVox)]
 
@@ -99,6 +109,8 @@ Below is a demo video of LiDAR-Visual-IMU SLAM system from [SR LIVO](https://git
 
 
 
+### 2015
+- [ICRA2015] Visual-lidar odometry and mapping: Low-drift, robust, and fast [[paper](https://frc.ri.cmu.edu/~zhangji/publications/ICRA_2015.pdf)]
 
 
 ## Related awesome lists
