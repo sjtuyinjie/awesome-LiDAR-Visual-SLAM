@@ -1,4 +1,4 @@
-# awesome-LiDAR-Visual-SLAM
+# Awesome-LiDAR-Visual-SLAM
 💎 Author: [**Jie Yin 殷杰**](https://github.com/sjtuyinjie)
 
 This is a curated list of resources relevant to LiDA-Visual-Fusion-SLAM. I will keep updating this website from time to time. If this project is helpful for your research, please give me a star and fork, thanks!
