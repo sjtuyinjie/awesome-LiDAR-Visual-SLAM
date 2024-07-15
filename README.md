@@ -40,6 +40,7 @@ If your work is about LiDAR-Visual-SLAM, welcome to propose a issue and remind m
 
 - [ICRA2022] R3LIVE: A Robust, Real-time, RGB-colored, LiDAR-Inertial-Visual tightly-coupled state Estimation and mapping package [[paper](https://ieeexplore.ieee.org/document/9811935)][[code](https://github.com/hku-mars/r3live)]
 
+- [RAL2022] mvil-fusion: Monocular visual-inertial-lidar simultaneous localization and mapping in challenging environments [[paper](https://ieeexplore.ieee.org/abstract/document/9968060/)]
 
 
 
@@ -64,6 +65,9 @@ If your work is about LiDAR-Visual-SLAM, welcome to propose a issue and remind m
 ### 2020
 - [IROS2020] LIC-Fusion 2.0: LiDAR-Inertial-Camera Odometry with Sliding-Window Plane-Feature Tracking [[paper](https://arxiv.org/pdf/2008.07196)]
 
+- [ICRA2020] Lidar-Monocular Visual Odometry using Point and Line Features [[paper](https://ieeexplore.ieee.org/abstract/document/9196613)]
+
+
 - [Automomous Robots2020] DVL-SLAM: sparse depth enhanced direct visual-LiDAR SLAM [[paper](https://link.springer.com/article/10.1007/s10514-019-09881-0)]
 
 
@@ -72,6 +76,16 @@ If your work is about LiDAR-Visual-SLAM, welcome to propose a issue and remind m
 
 ### 2019
 - [IROS2019] LIC-Fusion: LiDAR-Inertial-Camera Odometry [[paper](https://ieeexplore.ieee.org/xpl/conhome/8957008/proceeding)]
+
+- [IROS2019] ViLiVO: Virtual LiDAR-Visual Odometry for an Autonomous Vehicle with a Multi-Camera System [[paper](https://ieeexplore.ieee.org/abstract/document/8968484)]
+
+
+
+### 2018
+- [IROS2018] LIMO: Lidar-Monocular Visual Odometry [[paper](https://ieeexplore.ieee.org/abstract/document/8594394)][[code](https://github.com/johannes-graeter/limo)]
+
+
+
 
 
 
