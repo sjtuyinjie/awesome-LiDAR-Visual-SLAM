@@ -105,6 +105,7 @@ Below is a demo video of LiDAR-Visual-IMU SLAM system from [SR LIVO](https://git
 ## Related awesome-lists
 
 - [awesome-SLAM](https://github.com/SilenceOverflow/Awesome-SLAM)
+- [awesome-LiDAR-Camera-Calibration](https://github.com/Deephome/Awesome-LiDAR-Camera-Calibration)
 - [awesome-SLAM-datasets](https://github.com/youngguncho/awesome-slam-datasets)
 - [Awesome-Implicit-NeRF-Robotics](https://github.com/zubair-irshad/Awesome-Implicit-NeRF-Robotics)
 - [awesome-humanoid-learning](https://github.com/jonyzhang2023/awesome-humanoid-learning)
