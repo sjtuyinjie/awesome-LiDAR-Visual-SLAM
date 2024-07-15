@@ -4,6 +4,15 @@
 This is a curated list of resources relevant to LiDA-Visual-Fusion-SLAM. I will keep updating this website from time to time. If this project is helpful for your research, please give me a star and fork, thanks!
 **If your work about LiDAR-Visual-SLAM is accepted to top conferences or transactions, welcome to propose a issue and remind me of updating your work!**
 
+
+A demo illustration video of LVIO from [SR LIVO](https://github.com/ZikangYuan/sr_livo)
+
+<div align="left">
+<img src="pic/map.png" width=40.0% />
+<img src="pic/runx8.gif" width=52.11% />
+</div>
+
+
 ## Papers
 
 ### 2024
