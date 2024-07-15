@@ -97,15 +97,12 @@ Below is a demo video of LiDAR-Visual-IMU SLAM system from [SR LIVO](https://git
 
 
 
-## Star History
-
-[![Star History Chart](https://api.star-history.com/svg?repos=sjtuyinjie/awesome-LiDAR-Visual-SLAM&type=Timeline)](https://star-history.com/#Ashutosh00710/github-readme-activity-graph&Timeline)
 
 
-## Related awesome-lists
+## Related awesome lists
 
-- [awesome-SLAM](https://github.com/SilenceOverflow/Awesome-SLAM)
 - [awesome-LiDAR-Camera-Calibration](https://github.com/Deephome/Awesome-LiDAR-Camera-Calibration)
+- [awesome-SLAM](https://github.com/SilenceOverflow/Awesome-SLAM)
 - [awesome-SLAM-datasets](https://github.com/youngguncho/awesome-slam-datasets)
 - [Awesome-Implicit-NeRF-Robotics](https://github.com/zubair-irshad/Awesome-Implicit-NeRF-Robotics)
 - [awesome-humanoid-learning](https://github.com/jonyzhang2023/awesome-humanoid-learning)
@@ -113,4 +110,9 @@ Below is a demo video of LiDAR-Visual-IMU SLAM system from [SR LIVO](https://git
 - [Awesome_Quadrupedal_Robots](https://github.com/curieuxjy/Awesome_Quadrupedal_Robots)
 - [Awesome Robot Descriptions](https://github.com/robot-descriptions/awesome-robot-descriptions)
 - [awesome-legged-locomotion-learning](https://github.com/gaiyi7788/awesome-legged-locomotion-learning)
+
+## Star History
+
+[![Star History Chart](https://api.star-history.com/svg?repos=sjtuyinjie/awesome-LiDAR-Visual-SLAM&type=Timeline)](https://star-history.com/#Ashutosh00710/github-readme-activity-graph&Timeline)
+
 
