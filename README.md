@@ -5,7 +5,7 @@ This is a curated list of resources relevant to LiDA-Visual-Fusion-SLAM. I will 
 **If your work about LiDAR-Visual-SLAM is accepted to top conferences or transactions, welcome to propose a issue and remind me of updating your work!**
 
 
-Below is a demo video of LiDAR-Visual-IMU SLAM system from [SR LIVO](https://github.com/ZikangYuan/sr_livo), which shows the good performance of localization and mapping.
+Below is a demo video of LiDAR-Visual-IMU SLAM system from [SR LIVO](https://github.com/ZikangYuan/sr_livo), which shows the amazing performance of localization and mapping.
 
 <div align="left">
 <img src="pic/map.png" width=40.0% />
