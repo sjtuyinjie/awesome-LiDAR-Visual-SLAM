@@ -86,6 +86,9 @@ If your work is about LiDAR-Visual-SLAM, welcome to propose a issue and remind m
 
 
 
+## Star History
+
+[![Star History Chart](https://api.star-history.com/svg?repos=sjtuyinjie/awesome-LiDAR-Visual-SLAM&type=Timeline)](https://star-history.com/#Ashutosh00710/github-readme-activity-graph&Timeline)
 
 
 
