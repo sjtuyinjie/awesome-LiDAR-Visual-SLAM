@@ -2,7 +2,7 @@
 💎 Author: [**Jie Yin 殷杰**](https://github.com/sjtuyinjie)
 
 This is a curated list of resources relevant to LiDA-Visual-Fusion-SLAM. I will keep updating this website from time to time.
-**If your work is about LiDAR-Visual-SLAM, welcome to propose a issue and remind me of updating your work!**
+**If your work about LiDAR-Visual-SLAM is accepted to top conferences or transactions, welcome to propose a issue and remind me of updating your work!**
 
 ## Papers
 
