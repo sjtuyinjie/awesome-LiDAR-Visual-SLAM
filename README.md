@@ -102,4 +102,11 @@ Below is a demo video of LiDAR-Visual-IMU SLAM system from [SR LIVO](https://git
 [![Star History Chart](https://api.star-history.com/svg?repos=sjtuyinjie/awesome-LiDAR-Visual-SLAM&type=Timeline)](https://star-history.com/#Ashutosh00710/github-readme-activity-graph&Timeline)
 
 
+## Related awesome-lists
+- [awesome-humanoid-learning](https://github.com/jonyzhang2023/awesome-humanoid-learning)
+- [awesome-isaac-gym](https://github.com/wangcongrobot/awesome-isaac-gym)
+- [Awesome_Quadrupedal_Robots](https://github.com/curieuxjy/Awesome_Quadrupedal_Robots)
+- [Awesome-Implicit-NeRF-Robotics](https://github.com/zubair-irshad/Awesome-Implicit-NeRF-Robotics)
+- [Awesome Robot Descriptions](https://github.com/robot-descriptions/awesome-robot-descriptions)
+- [awesome-legged-locomotion-learning](https://github.com/gaiyi7788/awesome-legged-locomotion-learning)
 
