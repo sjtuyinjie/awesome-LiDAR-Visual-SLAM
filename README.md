@@ -6,7 +6,7 @@
 This is a curated list of resources relevant to LiDAR-Visual-Fusion-SLAM. I will keep updating this website from time to time. If this project is helpful for your research, please give me a star and fork, thanks!
 **If your work about LiDAR-Visual-SLAM is accepted to top conferences or transactions, welcome to propose a issue and remind me of updating your work!**
 
-
+LiDAR-Visual SLAM combines the strengths of LiDAR and visual sensors to provide highly accurate and robust localization and mapping. This fusion leverages the precise distance measurements from LiDAR and the rich environmental details captured by cameras, resulting in enhanced performance in diverse and challenging environments.
 Below is a demo video of LiDAR-Visual-IMU SLAM system from [SR LIVO](https://github.com/ZikangYuan/sr_livo), which shows the amazing performance of localization and mapping.
 
 <div align="left">
