@@ -15,9 +15,9 @@ Below is a demo video of LiDAR-Visual-IMU SLAM system from [SR LIVO](https://git
 </div>
 
 
-## Papers
+## 🚩 Papers
 
-### 2024 (updating!)
+### 🔥 2024 (updating!)
 
 
 - [RAL2024] LIVER: A Tightly Coupled LiDAR-Inertial-Visual State Estimator With High Robustness for Underground Environments [[paper](https://ieeexplore.ieee.org/abstract/document/10404014)][[code](https://github.com/ZikangYuan/sr_livo)]
@@ -113,7 +113,7 @@ Super odometry: Imu-centric lidar-visual-inertial estimator for challenging envi
 - [ICRA2015] Visual-lidar odometry and mapping: Low-drift, robust, and fast [[paper](https://frc.ri.cmu.edu/~zhangji/publications/ICRA_2015.pdf)]
 
 
-## Related awesome lists
+## ⭐️ Related awesome lists
 
 - [awesome-wheel-slam](https://github.com/sjtuyinjie/awesome-wheel-slam)
 - [awesome-isaac-sim](https://github.com/sjtuyinjie/awesome-isaac-sim)
