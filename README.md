@@ -21,16 +21,16 @@ Below is a demo video of LiDAR-Visual-IMU SLAM system from [SR LIVO](https://git
 
 ### 🔥 2024 (updating!)
 
+- **[TRO2024] FAST-LIVO2: Fast, Direct LiDAR-Inertial-Visual Odometry [[paper](https://ieeexplore.ieee.org/document/9739244)][[code](https://github.com/hku-mars/FAST-LIVO2)]**
 
+- **[TPAMI2024] R3LIVE++: A Robust, Real-time, Radiance reconstruction package with a tightly-coupled LiDAR-Inertial-Visual state Estimator [[paper](https://arxiv.org/abs/2209.03666)][[code](https://github.com/hku-mars/r3live)]**
+  
 - [RAL2024] LIVER: A Tightly Coupled LiDAR-Inertial-Visual State Estimator With High Robustness for Underground Environments [[paper](https://ieeexplore.ieee.org/abstract/document/10404014)]
 
 - [RAL2024] A LiDAR-inertial-visual odometry and mapping system based on the sweep reconstruction method [[paper](https://xplorestaging.ieee.org/document/10501952)][[code](https://github.com/ZikangYuan/sr_livo)]
 
 - [RAL2024] LVIO-Fusion:Tightly-Coupled LiDAR-Visual-Inertial Odometry and Mapping in Degenerate Environments [[paper](https://ieeexplore.ieee.org/abstract/document/10452777)]
 
-- [TRO2024] FAST-LIVO2: Fast, Direct LiDAR-Inertial-Visual Odometry [[paper](https://ieeexplore.ieee.org/document/9739244)][[code](https://github.com/hku-mars/FAST-LIVO2)]
-
-- [TPAMI2024] R3LIVE++: A Robust, Real-time, Radiance reconstruction package with a tightly-coupled LiDAR-Inertial-Visual state Estimator [[paper](https://arxiv.org/abs/2209.03666)][[code](https://github.com/hku-mars/r3live)]
 
 - [TIM2024] Dynam-LVIO: A Dynamic-Object-Aware LiDAR Visual Inertial Odometry in Dynamic Urban Environments [[paper](https://ieeexplore.ieee.org/document/10511062)]
 
@@ -57,7 +57,7 @@ Below is a demo video of LiDAR-Visual-IMU SLAM system from [SR LIVO](https://git
 
 - [IROS2022] Fast and Tightly-coupled Sparse-Direct LiDAR-Inertial-Visual Odometry [[paper](https://ieeexplore.ieee.org/document/9739244)][[code](https://github.com/hku-mars/FAST-LIVO)]
 
-- [ICRA2022] R3LIVE: A Robust, Real-time, RGB-colored, LiDAR-Inertial-Visual tightly-coupled state Estimation and mapping package [[paper](https://ieeexplore.ieee.org/document/9811935)][[code](https://github.com/hku-mars/r3live)]
+- **[ICRA2022] R3LIVE: A Robust, Real-time, RGB-colored, LiDAR-Inertial-Visual tightly-coupled state Estimation and mapping package [[paper](https://ieeexplore.ieee.org/document/9811935)][[code](https://github.com/hku-mars/r3live)]**
 
 - [RAL2022] mvil-fusion: Monocular visual-inertial-lidar simultaneous localization and mapping in challenging environments [[paper](https://ieeexplore.ieee.org/abstract/document/9968060/)]
 
@@ -66,7 +66,7 @@ Below is a demo video of LiDAR-Visual-IMU SLAM system from [SR LIVO](https://git
 ### 2021
 
 
-- [RAL2021] R2LIVE: A Robust, Real-time, LiDAR-Inertial-Visual tightly-coupled state Estimator and mapping [[paper](https://github.com/hku-mars/r2live/blob/master/paper/r2live_ral_final.pdf)][[code](https://github.com/hku-mars/r2live)]
+- **[RAL2021] R2LIVE: A Robust, Real-time, LiDAR-Inertial-Visual tightly-coupled state Estimator and mapping [[paper](https://github.com/hku-mars/r2live/blob/master/paper/r2live_ral_final.pdf)][[code](https://github.com/hku-mars/r2live)]**
 Super odometry: Imu-centric lidar-visual-inertial estimator for challenging environments
 
 - [IROS2021] Lvio-Fusion: A Self-adaptive Multi-sensor Fusion SLAM Framework Using Actor-critic Method [[paper](https://arxiv.org/abs/2106.06783)][[code](https://github.com/jypjypjypjyp/lvio_fusion)]
