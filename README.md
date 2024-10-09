@@ -67,7 +67,7 @@ Below is a demo video of LiDAR-Visual-IMU SLAM system from [SR LIVO](https://git
 
 
 - 🔥 **[RAL2021] R2LIVE: A Robust, Real-time, LiDAR-Inertial-Visual tightly-coupled state Estimator and mapping [[paper](https://github.com/hku-mars/r2live/blob/master/paper/r2live_ral_final.pdf)][[code](https://github.com/hku-mars/r2live)]**
-Super odometry: Imu-centric lidar-visual-inertial estimator for challenging environments
+
 
 - [IROS2021] Lvio-Fusion: A Self-adaptive Multi-sensor Fusion SLAM Framework Using Actor-critic Method [[paper](https://arxiv.org/abs/2106.06783)][[code](https://github.com/jypjypjypjyp/lvio_fusion)]
 
