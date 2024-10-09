@@ -22,7 +22,7 @@ Below is a demo video of LiDAR-Visual-IMU SLAM system from [SR LIVO](https://git
 ### 🔥 2024 (updating!)
 
 
-- [RAL2024] LIVER: A Tightly Coupled LiDAR-Inertial-Visual State Estimator With High Robustness for Underground Environments [[paper](https://ieeexplore.ieee.org/abstract/document/10404014)
+- [RAL2024] LIVER: A Tightly Coupled LiDAR-Inertial-Visual State Estimator With High Robustness for Underground Environments [[paper](https://ieeexplore.ieee.org/abstract/document/10404014)]
 
 - [RAL2024] A LiDAR-inertial-visual odometry and mapping system based on the sweep reconstruction method [[paper](https://xplorestaging.ieee.org/document/10501952)][[code](https://github.com/ZikangYuan/sr_livo)]
 
