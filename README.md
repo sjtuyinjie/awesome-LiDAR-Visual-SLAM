@@ -26,7 +26,7 @@ Below is a demo video of LiDAR-Visual-IMU SLAM system from [SR LIVO](https://git
 
 - [RAL2024] LVIO-Fusion:Tightly-Coupled LiDAR-Visual-Inertial Odometry and Mapping in Degenerate Environments [[paper](https://ieeexplore.ieee.org/abstract/document/10452777)]
 
-- [TRO2024 under review] FAST-LIVO2: Fast, Direct LiDAR-Inertial-Visual Odometry [[paper](https://ieeexplore.ieee.org/document/9739244)][[code](https://github.com/hku-mars/FAST-LIVO2)]
+- [TRO2024] FAST-LIVO2: Fast, Direct LiDAR-Inertial-Visual Odometry [[paper](https://ieeexplore.ieee.org/document/9739244)][[code](https://github.com/hku-mars/FAST-LIVO2)]
 
 - [TPAMI2024] R3LIVE++: A Robust, Real-time, Radiance reconstruction package with a tightly-coupled LiDAR-Inertial-Visual state Estimator [[paper](https://arxiv.org/abs/2209.03666)][[code](https://github.com/hku-mars/r3live)]
 
