@@ -3,6 +3,7 @@
 
 [![Author](https://img.shields.io/badge/Author-Jie%20Yin-blue)](https://sjtuyinjie.github.io/)
 [![License](https://img.shields.io/badge/License-MIT-cyan)]()
+[![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
 I'm an active open-source contributor interested on robotics and embodied AI, especially on reinforcement learning, dexterous manipulation, SLAM and arm plan and control. MyWelcome to follow me!
 
