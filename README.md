@@ -1,6 +1,9 @@
 # Awesome-LiDAR-Visual-SLAM
 💎 Author: [**Jie Yin 殷杰**](https://github.com/sjtuyinjie)
 
+[![Author](https://img.shields.io/badge/Author-Jie%20Yin-blue)](https://sjtuyinjie.github.io/)
+[![License](https://img.shields.io/badge/License-MIT-cyan)]()
+
 I'm an active open-source contributor interested on robotics and embodied AI, especially on reinforcement learning, dexterous manipulation, SLAM and arm plan and control. MyWelcome to follow me!
 
 ## 📝 Introduction
