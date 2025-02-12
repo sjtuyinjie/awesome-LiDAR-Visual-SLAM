@@ -9,7 +9,7 @@ I'm an active open-source contributor interested on robotics and embodied AI, es
 
 ## 📝 Introduction
 
-This is a curated list of resources relevant to LiDAR-Visual-Fusion-SLAM. I will keep updating this website from time to time. If this project is helpful for your research, please give me a star and fork, thanks!
+This is a curated list of resources relevant to LiDAR-Visual-Fusion-SLAM, which overviews **over 30** top-tier publications on LiDAR-Visual fusion SLAM systems. I will keep updating this website from time to time. If this project is helpful for your research, please give me a star and fork, thanks!
 **If your work about LiDAR-Visual-SLAM is accepted to top conferences or transactions, welcome to propose a issue and remind me of updating your work!**
 
 LiDAR-Visual SLAM combines the strengths of LiDAR and visual sensors to provide highly accurate and robust localization and mapping. This fusion leverages the precise distance measurements from LiDAR and the rich environmental details captured by cameras, resulting in enhanced performance in diverse and challenging environments.
