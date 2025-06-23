@@ -22,8 +22,12 @@ Below is a demo video of LiDAR-Visual-IMU SLAM system from [SR LIVO](https://git
 
 
 ## 🚩 Papers
+### 2025 (updating!)
+- 🔥 **[IROS2025] Towards Robust Sensor-Fusion Ground SLAM: A Comprehensive Benchmark and A Resilient Framework [[paper](https://ieeexplore.ieee.org/document/9739244)][[code](https://github.com/sjtuyinjie/Ground-Fusion2)]**
 
-### 2024 (updating!)
+
+
+### 2024
 
 - 🔥 **[TRO2024] FAST-LIVO2: Fast, Direct LiDAR-Inertial-Visual Odometry [[paper](https://ieeexplore.ieee.org/document/9739244)][[code](https://github.com/hku-mars/FAST-LIVO2)]**
 
