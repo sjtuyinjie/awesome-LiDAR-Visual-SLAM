@@ -23,7 +23,7 @@ Below is a demo video of LiDAR-Visual-IMU SLAM system from [SR LIVO](https://git
 
 ## 🚩 Papers
 ### 2025 (updating!)
-- 🔥 **[IROS2025] Towards Robust Sensor-Fusion Ground SLAM: A Comprehensive Benchmark and A Resilient Framework [[paper](https://ieeexplore.ieee.org/document/9739244)][[code](https://github.com/sjtuyinjie/Ground-Fusion2)]**
+- 🔥 **[IROS2025] Towards Robust Sensor-Fusion Ground SLAM: A Comprehensive Benchmark and A Resilient Framework [[paper](https://ieeexplore.ieee.org/document/9739244)][[code](https://github.com/sjtuyinjie/Ground-Fusion2)[dataset](https://github.com/sjtuyinjie/M3DGR)]** 
 
 
 
