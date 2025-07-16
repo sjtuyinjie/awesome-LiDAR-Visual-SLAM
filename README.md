@@ -21,9 +21,16 @@ Below is a demo video of LiDAR-Visual-IMU SLAM system from [SR LIVO](https://git
 </div>
 
 
+## Contribute to this list
+
+We encourage you to add your LiDAR-vision-fusion SLAM algorithms to this list!You can 
+- **Submit a Pull Request to contribute new algorithms, configuration files, or improvements via Github [Pull Request](https://github.com/sjtuyinjie/awesome-LiDAR-Visual-SLAM/pulls) to post your paper and code**
+
+
+
 ## 🚩 Papers
 ### 2025 (updating!)
-- 🔥 **[IROS2025] Towards Robust Sensor-Fusion Ground SLAM: A Comprehensive Benchmark and A Resilient Framework [[paper](https://ieeexplore.ieee.org/document/9739244)][[code](https://github.com/sjtuyinjie/Ground-Fusion2)][[dataset](https://github.com/sjtuyinjie/M3DGR)]** (A complete solution for SLAM under corner cases, including benchmark datasets and a resilient multi-sensor fusion SLAM framework)
+- 🔥 **[IROS2025] Towards Robust Sensor-Fusion Ground SLAM: A Comprehensive Benchmark and A Resilient Framework [[paper](https://arxiv.org/abs/2507.08364)][[code](https://github.com/sjtuyinjie/Ground-Fusion2)][[dataset](https://github.com/sjtuyinjie/M3DGR)]** (A complete solution for SLAM under corner cases, including benchmark datasets and a resilient multi-sensor fusion SLAM framework)
 
 
 
