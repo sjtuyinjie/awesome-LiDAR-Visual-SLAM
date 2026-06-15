@@ -29,8 +29,13 @@ We encourage you to add your LiDAR-vision-fusion SLAM algorithms to this list!Yo
 
 
 ## 🚩 Papers
+
+### 2026
+- 🔥 **Ultra-Fusion: A Resilient Tightly-Coupled Multi-Sensor Fusion SLAM Framework under Sensor Degradation and Spatiotemporal Perturbation [[[code](https://github.com/sjtuyinjie/Ultra-Fusion)][[dataset](https://github.com/sjtuyinjie/M3DGR)]** (A complete solution for SLAM under corner cases, including benchmark datasets and a resilient multi-sensor fusion SLAM framework)
+
+
 ### 2025 
-- 🔥 **[IROS2025] Towards Robust Sensor-Fusion Ground SLAM: A Comprehensive Benchmark and A Resilient Framework [[paper](https://arxiv.org/abs/2507.08364)][[code](https://github.com/sjtuyinjie/Ground-Fusion2)][[dataset](https://github.com/sjtuyinjie/M3DGR)]** (A complete solution for SLAM under corner cases, including benchmark datasets and a resilient multi-sensor fusion SLAM framework)
+- 🔥 **[IROS2025] Towards Robust Sensor-Fusion Ground SLAM: A Comprehensive Benchmark and A Resilient Framework [[paper](https://arxiv.org/abs/2507.08364)][[code](https://github.com/sjtuyinjie/Ground-Fusion2)][[dataset](https://github.com/sjtuyinjie/M3DGR)]** (The system unifies WIO, VIO, LIO, and LVIO in one configurable optimization framework, with optional wheel/GNSS fusion and online calibration.)
 
 
 
