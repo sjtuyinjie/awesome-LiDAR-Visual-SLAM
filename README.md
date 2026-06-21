@@ -31,7 +31,7 @@ We encourage you to add your LiDAR-vision-fusion SLAM algorithms to this list!Yo
 ## 🚩 Papers
 
 ### 2026
-- 🔥 **Ultra-Fusion: A Resilient Tightly-Coupled Multi-Sensor Fusion SLAM Framework under Sensor Degradation and Spatiotemporal Perturbation [[[code](https://github.com/sjtuyinjie/Ultra-Fusion)][[dataset](https://github.com/sjtuyinjie/M3DGR)]** (The system unifies WIO, VIO, LIO, and LVIO in one configurable optimization framework, with optional wheel/GNSS fusion and online calibration.)
+- 🔥 **Ultra-Fusion: A Resilient Tightly-Coupled Multi-Sensor Fusion SLAM Framework under Sensor Degradation and Spatiotemporal Perturbation [[code](https://github.com/sjtuyinjie/Ultra-Fusion)][[dataset](https://github.com/sjtuyinjie/M3DGR)][[website](https://sjtuyinjie.github.io/ultrafusion-web/)][[video](https://www.youtube.com/watch?v=ekzD9ovd1SQ&feature=youtu.be/)]** (The system unifies WIO, VIO, LIO, and LVIO in one configurable optimization framework, with optional wheel/GNSS fusion and online calibration.)
 
 
 ### 2025 
