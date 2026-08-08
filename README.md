@@ -159,7 +159,6 @@ We encourage you to add your LiDAR-vision-fusion SLAM algorithms to this list!Yo
 - [Awesome-Robot-Descriptions](https://github.com/robot-descriptions/awesome-robot-descriptions)
 - [awesome-legged-locomotion-learning](https://github.com/gaiyi7788/awesome-legged-locomotion-learning)
 
-## Star History
 
 ## Star History
 
