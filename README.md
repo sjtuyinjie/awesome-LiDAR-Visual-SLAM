@@ -161,6 +161,14 @@ We encourage you to add your LiDAR-vision-fusion SLAM algorithms to this list!Yo
 
 ## Star History
 
-[![Star History Chart](https://api.star-history.com/svg?repos=sjtuyinjie/awesome-LiDAR-Visual-SLAM&type=Timeline)](https://star-history.com/#Ashutosh00710/github-readme-activity-graph&Timeline)
+## Star History
+
+<a href="https://www.star-history.com/?repos=sjtuyinjie%2Fawesome-LiDAR-Visual-SLAM&type=date&legend=top-left">
+ <picture>
+   <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/chart?repos=sjtuyinjie/awesome-LiDAR-Visual-SLAM&type=date&theme=dark&legend=top-left&sealed_token=sm0W3RDdeFkg5ODy72sOeO9mbThmx9GXYN1Gaz0FOSasXRhWarRkU_d5rGJTEh7Qc0ztBEo9xixcPVZNV3c2ErV7KbYv4yp3r5b3CFx6SeI-ynrqS453VTiePjVb2FojVjBIeOMbqVcZn6QptmMPMK8XYY-pdB7fym-VJWR-Wlbzix24Can0fJhkf_sc" />
+   <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/chart?repos=sjtuyinjie/awesome-LiDAR-Visual-SLAM&type=date&legend=top-left&sealed_token=sm0W3RDdeFkg5ODy72sOeO9mbThmx9GXYN1Gaz0FOSasXRhWarRkU_d5rGJTEh7Qc0ztBEo9xixcPVZNV3c2ErV7KbYv4yp3r5b3CFx6SeI-ynrqS453VTiePjVb2FojVjBIeOMbqVcZn6QptmMPMK8XYY-pdB7fym-VJWR-Wlbzix24Can0fJhkf_sc" />
+   <img alt="Star History Chart" src="https://api.star-history.com/chart?repos=sjtuyinjie/awesome-LiDAR-Visual-SLAM&type=date&legend=top-left&sealed_token=sm0W3RDdeFkg5ODy72sOeO9mbThmx9GXYN1Gaz0FOSasXRhWarRkU_d5rGJTEh7Qc0ztBEo9xixcPVZNV3c2ErV7KbYv4yp3r5b3CFx6SeI-ynrqS453VTiePjVb2FojVjBIeOMbqVcZn6QptmMPMK8XYY-pdB7fym-VJWR-Wlbzix24Can0fJhkf_sc" />
+ </picture>
+</a>
 
 
