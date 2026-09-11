@@ -9,7 +9,7 @@ I'm an active open-source contributor interested on robotics and embodied AI, es
 
 ## 📝 Introduction
 
-This is a curated list of resources relevant to LiDAR-Visual-Fusion-SLAM, which overviews **over 30** top-tier publications on LiDAR-Visual fusion SLAM systems. I will keep updating this website from time to time. If this project is helpful for your research, please give me a star and fork, thanks!
+This is a curated list of resources relevant to LiDAR-Visual-Fusion-SLAM, which overviews **over 35** top-tier publications on LiDAR-Visual fusion SLAM systems. I will keep updating this website from time to time. If this project is helpful for your research, please give me a star and fork, thanks!
 **If your work about LiDAR-Visual-SLAM is accepted to top conferences or transactions, welcome to propose a issue and remind me of updating your work!**
 
 LiDAR-Visual SLAM combines the strengths of LiDAR and visual sensors to provide highly accurate and robust localization and mapping. This fusion leverages the precise distance measurements from LiDAR and the rich environmental details captured by cameras, resulting in enhanced performance in diverse and challenging environments.
@@ -33,15 +33,21 @@ We encourage you to add your LiDAR-vision-fusion SLAM algorithms to this list!Yo
 ### 2026
 - 🔥 **Ultra-Fusion: A Resilient Tightly-Coupled Multi-Sensor Fusion SLAM Framework under Sensor Degradation and Spatiotemporal Perturbation [[code](https://github.com/sjtuyinjie/Ultra-Fusion)][[dataset](https://github.com/sjtuyinjie/M3DGR)][[website](https://sjtuyinjie.github.io/ultrafusion-web/)][[video](https://www.youtube.com/watch?v=ekzD9ovd1SQ&feature=youtu.be/)]** (The system unifies WIO, VIO, LIO, and LVIO in one configurable optimization framework, with optional wheel/GNSS fusion and online calibration.)
 
+- 🔥 **[IJRR2026] Gaussian-LIC2: LiDAR-Inertial-Camera Gaussian Splatting SLAM [[paper](https://arxiv.org/abs/2507.04004)][[code](https://github.com/APRIL-ZJU/Gaussian-LIC)][[website](https://xingxingzuo.github.io/gaussian_lic2/)]** (Real-time photo-realistic LIV SLAM with continuous-time trajectory optimization, zero-shot depth completion, and Gaussian-map-assisted odometry under LiDAR degeneration.)
+
+- **[RAL2026] Omni-LIVO: Robust RGB-Colored Multi-Camera Visual-Inertial-LiDAR Odometry via Photometric Migration and ESIKF Fusion [[paper](https://arxiv.org/abs/2509.15673)][[code](https://github.com/elon876/Omni-LIVO)]** (Extends FAST-LIVO2 to multi-camera settings with cross-view photometric migration and adaptive multi-view ESIKF fusion.)
+
 
 ### 2025 
 - 🔥 **[IROS2025] Towards Robust Sensor-Fusion Ground SLAM: A Comprehensive Benchmark and A Resilient Framework [[paper](https://arxiv.org/abs/2507.08364)][[code](https://github.com/sjtuyinjie/Ground-Fusion2)][[dataset](https://github.com/sjtuyinjie/M3DGR)]** (A complete solution for SLAM under corner cases, including benchmark datasets and a resilient multi-sensor fusion SLAM framework)
 
+- **[ICRA2025] Gaussian-LIC: Real-Time Photo-Realistic SLAM with Gaussian Splatting and LiDAR-Inertial-Camera Fusion [[paper](https://arxiv.org/abs/2404.06926)][[code](https://github.com/APRIL-ZJU/Gaussian-LIC)][[website](https://xingxingzuo.github.io/gaussian_lic/)]** (Real-time LIV Gaussian Splatting SLAM with robust pose estimation and photo-realistic mapping in general outdoor scenarios.)
 
+- 🔥 **[TRO2025] GS-LIVO: Real-Time LiDAR, Inertial, and Visual Multisensor Fused Odometry With Gaussian Mapping [[paper](https://arxiv.org/abs/2501.08672)][[code](https://github.com/HKUST-Aerial-Robotics/GS-LIVO)]** (First real-time Gaussian-based LIVO deployable on embedded platforms such as Jetson Orin NX, with hash-indexed octree Gaussian maps and IESKF fusion.)
 
+- **[ICCV2025] GS-LIVM: Real-Time Photo-Realistic LiDAR-Inertial-Visual Mapping with Gaussian Splatting [[paper](https://arxiv.org/abs/2410.17084)][[code](https://github.com/xieyuser/GS-LIVM)]** (Real-time outdoor LIV mapping with voxel Gaussian Process Regression and covariance-centered 3D Gaussian initialization.)
 
-- [IROS2025] Intensity-Augmented LiDAR-Visual-Inertial Odometry and Meshing
-  [[paper](https://doi.org/10.1109/iros60139.2025.11245957)]
+- [IROS2025] Intensity-Augmented LiDAR-Visual-Inertial Odometry and Meshing [[paper](https://doi.org/10.1109/iros60139.2025.11245957)]
 
 
 
@@ -51,13 +57,15 @@ We encourage you to add your LiDAR-vision-fusion SLAM algorithms to this list!Yo
 
 ### 2024
 
-- 🔥 **[TRO2024] FAST-LIVO2: Fast, Direct LiDAR-Inertial-Visual Odometry [[paper](TBD)][[code](https://github.com/hku-mars/FAST-LIVO2)]**
+- 🔥 **[TRO2024] FAST-LIVO2: Fast, Direct LiDAR-Inertial-Visual Odometry [[paper](https://arxiv.org/abs/2408.14035)][[code](https://github.com/hku-mars/FAST-LIVO2)]**
 
 - 🔥 **[TPAMI2024] R3LIVE++: A Robust, Real-time, Radiance reconstruction package with a tightly-coupled LiDAR-Inertial-Visual state Estimator [[paper](https://arxiv.org/abs/2209.03666)][[code](https://github.com/hku-mars/r3live)]**
   
 - [RAL2024] LIVER: A Tightly Coupled LiDAR-Inertial-Visual State Estimator With High Robustness for Underground Environments [[paper](https://ieeexplore.ieee.org/abstract/document/10404014)]
 
 - [RAL2024] A LiDAR-inertial-visual odometry and mapping system based on the sweep reconstruction method [[paper](https://xplorestaging.ieee.org/document/10501952)][[code](https://github.com/ZikangYuan/sr_livo)]
+
+- [RAL2024] Point-Line LIVO Using Patch-Based Gradient Optimization for Degenerate Scenes [[paper](https://doi.org/10.1109/LRA.2024.3466088)][[code](https://github.com/S-Torin/Point-line-LIVO)] (Integrates visual point and line patches for robust localization in LiDAR-degenerate scenes.)
 
 - [RAL2024] LVIO-Fusion:Tightly-Coupled LiDAR-Visual-Inertial Odometry and Mapping in Degenerate Environments [[paper](https://ieeexplore.ieee.org/abstract/document/10452777)]
 
